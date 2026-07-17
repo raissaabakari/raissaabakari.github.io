@@ -16,7 +16,13 @@ Following completion of her master's degree, Raissa plans to pursue a Ph.D. in c
 
 ## About My Advisor
 
-Advisor info goes here.
+Huihui Wang is a teaching professor and director of computing programs in the Khoury College of Computer Sciences at Northeastern University, based in Arlington.
+
+In her teaching, Wang teaches computing foundations courses and enjoys helping students without undergraduate CS degrees thrive at the graduate level. As an administrator, she recruits and supervises faculty for master’s programs in Arlington. In her research, she examines challenges and opportunities for computing education in the third wave of artificial intelligence, as well as how to build and strengthen pathways into computing fields.
+
+Prior to joining Khoury College in 2024, Wang was a program director within the National Science Foundation’s Directorate for STEM Education and Directorate for Technology Innovation and Partnerships. She was also an associate professor of cybersecurity at St. Bonaventure University and the founding chair of the Department of Engineering at Jacksonville University.
+
+Outside of academia, she enjoys dance and tennis.
 
 ## About My Project
 
