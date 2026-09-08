@@ -26,7 +26,7 @@ Outside of academia, she enjoys dance and tennis.
 
 ## About My Project
 
-Project description goes here.
+This project explores the application of neurosymbolic artificial intelligence to malware threat analysis. By combining the pattern-recognition capabilities of neural models with the structured reasoning of symbolic approaches, the research aims to investigate how these complementary techniques can support more effective and explainable analysis of malware and cyber threats. The project will examine existing neurosymbolic and retrieval-augmented approaches, including recent work such as SymRAG, to identify how these methodologies can be adapted to cybersecurity applications.
 
 [My Final Report](files/finalreport.pdf)
 
