@@ -16,6 +16,7 @@ Following completion of her master’s degree in Summer 2027, she plans to pursu
 Outside of academia, she enjoys hiking and playing the drums.
 
 Expected Graduation Date: August 2027
+
 Email: bakari.r@northeastern.edu
 LinkedIn: www.linkedin.com/in/raissa-bakari
 
