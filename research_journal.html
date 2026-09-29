@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+Research Journal
+The entries below document approximately 20 weeks of work completed throughout my DREAM research experience. 
+Because the apprenticeship was completed on a flexible, part-time schedule alongside graduate coursework, travel, and other commitments, 
+these weeks were not always consecutive. Most weeks involved approximately four to five hours of research, with several more intensive periods 
+devoted to implementation, experimentation, and final project completion.
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
