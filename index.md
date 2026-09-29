@@ -17,8 +17,9 @@ Outside of academia, she enjoys hiking and playing the drums.
 
 Expected Graduation Date: August 2027
 
-Email: bakari.r@northeastern.edu
-LinkedIn: www.linkedin.com/in/raissa-bakari
+Email: [bakari.r@northeastern.edu](bakari.r@northeastern.edu)
+
+[LinkedIn](www.linkedin.com/in/raissa-bakari)
 
 ## About My Advisor
 
@@ -30,8 +31,9 @@ Prior to joining Khoury College in 2024, Wang was a program director within the 
 
 Outside of academia, she enjoys dance and tennis.
 
-Email: huih.wang@northeastern.edu
-Website: https://www.khoury.northeastern.edu/people/huihui-wang/ 
+Email: [huih.wang@northeastern.edu](huih.wang@northeastern.edu)
+
+[Website](https://www.khoury.northeastern.edu/people/huihui-wang/)
 
 ## About My Project
 
