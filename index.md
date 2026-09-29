@@ -19,7 +19,7 @@ Expected Graduation Date: August 2027
 
 Email: [bakari.r@northeastern.edu](bakari.r@northeastern.edu)
 
-[LinkedIn](www.linkedin.com/in/raissa-bakari)
+[LinkedIn](https://www.linkedin.com/in/raissa-bakari)
 
 ## About My Advisor
 
