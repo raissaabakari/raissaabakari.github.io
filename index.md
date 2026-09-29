@@ -40,7 +40,7 @@ Using the MalwareTextDB corpus, I developed a proof-of-concept system comparing 
 The project was motivated in part by research on neuro-symbolic and retrieval-augmented systems such as SymRAG. Rather than reproducing SymRAG directly, the work explores the broader idea that neural representations and explicit symbolic knowledge can provide complementary forms of information for cybersecurity analysis.
 The final results showed that the hybrid system achieved the highest overall classification accuracy, while the symbolic system achieved slightly higher balanced performance across classes. The findings highlight both the potential of neuro-symbolic malware analysis and the importance of carefully designing how neural and symbolic information are integrated.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/Bakari_Neuro-Symbolic_Malware_Analysis.pdf)
 
 ## My Blog
 
