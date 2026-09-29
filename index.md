@@ -8,7 +8,7 @@ title: DREAM Project- Neuro-Symbolic AI for Malware Behavior Analysis
 
 ## About Me
 
-Raissa Bakari is a master’s student in Cybersecurity at Northeastern University and a participant in the Computing Research Association’s Distributed Research Apprenticeships for Master’s (DREAM) program. She earned her Bachelor of Science in International Studies with a concentration in Security and Intelligence, along with minors in Information Security and History. Her interdisciplinary background has shaped her research interests at the intersection of cybersecurity, artificial intelligence, and national security.
+Raissa Aydina Putri Bakari is a master’s student in Cybersecurity at Northeastern University and a participant in the Computing Research Association’s Distributed Research Apprenticeships for Master’s (DREAM) program. She earned her Bachelor of Science in International Studies with a concentration in Security and Intelligence, along with minors in Information Security and History. Her interdisciplinary background has shaped her research interests at the intersection of cybersecurity, artificial intelligence, and national security.
 
 As a DREAM research apprentice, Raissa investigated the application of neuro-symbolic artificial intelligence to malware behavior analysis, with a particular focus on combining neural semantic representations with structured symbolic knowledge. Her broader research interests include artificial intelligence for cybersecurity, cyber threat intelligence, digital forensics, cryptography, and emerging technologies in security.
 Following completion of her master’s degree in Summer 2027, she plans to pursue a Ph.D. and continue conducting interdisciplinary research in cybersecurity and intelligent systems.
