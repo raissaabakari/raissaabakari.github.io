@@ -44,6 +44,6 @@ The final results showed that the hybrid system achieved the highest overall cla
 
 [My Final Report](files/Bakari_Neuro-Symbolic_Malware_Analysis.pdf)
 
-## My Blog
+## My Research Journal
 
-[My Blog](blog.html)
+[Research Journal](research_journal.html)
